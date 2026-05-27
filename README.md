@@ -31,7 +31,7 @@ Modern task management dashboard built with Vue 3.
 
 ### Dashboard
 
-<img width="1400" alt="dashboard" src="SCREENSHOT_LINK">
+![img.png](img.png)
 
 ---
 
