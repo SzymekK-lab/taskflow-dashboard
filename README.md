@@ -40,7 +40,7 @@ Modern task management dashboard built with Vue 3.
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow-dashboard.git
+git clone https://github.com/SzymekK-lab/taskflow-dashboard.git
 ```
 
 Install dependencies:
