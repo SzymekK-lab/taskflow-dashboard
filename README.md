@@ -1,5 +1,86 @@
-# Vue 3 + Vite
+# TaskFlow Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Modern task management dashboard built with Vue 3.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+
+- Drag & Drop Kanban Board
+- Task Management System
+- Analytics Dashboard
+- Dark / Light Theme
+- Multi Language Support
+- Responsive Design
+- Local Storage Persistence
+- Real-time Statistics
+- Deadlines Management
+
+---
+
+## 🛠 Tech Stack
+
+- Vue 3
+- Vue Router
+- Pinia
+- VueDraggable
+- Chart.js
+- Vite
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+<img width="1400" alt="dashboard" src="SCREENSHOT_LINK">
+
+---
+
+## ⚡ Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/taskflow-dashboard.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run application:
+
+```bash
+npm run dev
+```
+
+Build production version:
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 Live Demo
+
+Coming soon...
+
+---
+
+## 📚 What I Learned
+
+- State management with Pinia
+- Vue Router
+- Drag & Drop systems
+- Reactive analytics
+- Theme systems
+- Localization
+- Advanced component architecture
+
+---
+
+## 👨‍💻 Author
+
+Szymek Kaletka
