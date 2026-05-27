@@ -83,4 +83,4 @@ Coming soon...
 
 ## 👨‍💻 Author
 
-Szymek Kaletka
+Szymon Kaletka
